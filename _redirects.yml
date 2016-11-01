@@ -1,1 +1,9 @@
---- []
+---
+- abc-def: ''
+- abc-def/: ''
+- Abc-def: ''
+- Abc-def/: ''
+- Abc-Def: ''
+- Abc-Def/: ''
+- ABC-DEF: ''
+- ABC-DEF/: ''
