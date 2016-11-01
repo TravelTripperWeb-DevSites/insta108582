@@ -1,4 +1,5 @@
 ---
+- sdf: sdf
 - a: b
 - a/: b
 - A: b
@@ -13,9 +14,9 @@
 - Aaaa/: bbbb
 - AAAA: bbbb
 - AAAA/: bbbb
-- sdf: sdf
-- sdf/: sdf
-- Sdf: sdf
-- Sdf/: sdf
-- SDF: sdf
-- SDF/: sdf
+- sdffff: sdff
+- sdffff/: sdff
+- Sdffff: sdff
+- Sdffff/: sdff
+- SDFFFF: sdff
+- SDFFFF/: sdff
