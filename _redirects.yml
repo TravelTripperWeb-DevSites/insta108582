@@ -1,0 +1,18 @@
+---
+- Abc-Def: ''
+- Abc-Def/: ''
+- ABC-DEF: ''
+- ABC-DEF/: ''
+- def: ''
+- def/: ''
+- Def: ''
+- Def/: ''
+- DEF: ''
+- DEF/: ''
+- a: b/
+- a/: b/
+- A: b/
+- A/: b/
+- abc-def: abc/
+- xyz-abc: xyz/
+- hij/: hij-jkl/
